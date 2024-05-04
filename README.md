@@ -1,10 +1,10 @@
-# Name of Machine
-Explanation of the Machine
+# Thingking Machine
+This is a machine that can thingk.
 <pre>
-  pip install name-of-the-machine
+  pip install thingking-machine
 </pre>
 Then:
 ```Python
   # Python
-  import name_of_the_machine
+  import thingking_machine
 ```

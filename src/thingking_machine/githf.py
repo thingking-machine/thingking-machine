@@ -14,7 +14,6 @@ github_token    = environ.get('GITHUB_TOKEN', '')
 github_name     = environ.get('GITHUB_NAME', '')
 github_email    = environ.get('GITHUB_EMAIL', '')
 
-# The useless urllib3 warning is too maddening for an ordinary human being.
 disable_warnings()
 
 
