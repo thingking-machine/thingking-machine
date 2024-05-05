@@ -24,4 +24,4 @@ except Exception as e:
     with open(machina_path, 'r') as yaml_file:
         MACHINE_YAML = yaml_file.read()
 
-NAME_OF_THE_MACHINE = yaml.load(MACHINE_YAML, Loader=yaml.FullLoader)
+THINGKING_MACHINE = yaml.load(MACHINE_YAML, Loader=yaml.FullLoader)
